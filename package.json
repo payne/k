@@ -1,0 +1,11 @@
+{
+  "name": "add_ids",
+  "version": "0.0.1",
+  "description": "Add ids to an array of objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
