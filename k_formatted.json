@@ -1,0 +1,229 @@
+[
+  {
+    "name": "PI1-S1-WK1-A1",
+    "nameLink": "https://mccnetmccneb.sharepoint.com/:w:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%201/2019%2009%2009/PI1-S1-WK1-A1.docx?d=wa4dbbec9250b469ebdb9e5a93726149a&csf=1&web=1&e=7t7RyX",
+    "date": "2019-09-09",
+    "dateLink": "https://mccnetmccneb.sharepoint.com/:f:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%201/2019%2009%2009?csf=1&web=1&e=oLci07",
+    "language": "Java",
+    "competencies": [
+      "Use an IDE and the JDK to write, compile and run Java programs",
+      "Apply Java coding skills in working with primitive data types and Java objects",
+      "Use Java operators and features for modular programming and flow control."
+    ],
+    "id": 1
+  },
+  {
+    "name": "PI1-S1-WK1-A2",
+    "nameLink": "https://mccnetmccneb.sharepoint.com/:w:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%201/2019%2009%2011/PI1-S1-WK1-A2.docx?d=w9b3611389a5348d78d982338ba4ea6eb&csf=1&web=1&e=8HHJbU",
+    "date": "2019-09-11",
+    "dateLink": "https://mccnetmccneb.sharepoint.com/:f:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%201/2019%2009%2011?csf=1&web=1&e=Md5fgg",
+    "language": "HTML/CSS",
+    "competencies": [
+      "Working with HTML and CSS in your chosen text editor",
+      "HTML architecture",
+      "Browser Testing",
+      "Relative paths",
+      "Character Entities",
+      "Basic navigation",
+      "Superscript text"
+    ],
+    "id": 2
+  },
+  {
+    "name": "PI1-S1-WK1-HCI1",
+    "nameLink": "https://mccnetmccneb.sharepoint.com/:w:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%201/2019%2009%2011/PI1-S1-WK1-HCI1.docx?d=w8e7fbd600ab242ba85370cd960a3c6f1&csf=1&web=1&e=mOmjs4",
+    "date": "2019-09-11",
+    "dateLink": "https://mccnetmccneb.sharepoint.com/:f:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%201/2019%2009%2011?csf=1&web=1&e=Md5fgg",
+    "language": "HCI/UI/UX",
+    "competencies": [
+      "Knowledge of basic user interface element options",
+      "Examples of ‘good’ and ‘bad’ websites"
+    ],
+    "id": 3
+  },
+  {
+    "name": "PI1-S1-WK1-L1",
+    "nameLink": "https://mccnetmccneb.sharepoint.com/:w:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%201/2019%2009%2009/PI1-S1-WK1-L1.docx?d=wff6ef69ad5f14b80944d31f166894c37&csf=1&web=1&e=ivRngy",
+    "date": "2019-09-09",
+    "dateLink": "https://mccnetmccneb.sharepoint.com/:f:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%201/2019%2009%2009?csf=1&web=1&e=oLci07",
+    "language": "Java",
+    "competencies": [
+      "Use an IDE and the JDK to write, compile and run Java programs",
+      "Basic Git and Gitlab – fork a project, make changes and push them back to Gitlab",
+      "Create and use .jar files",
+      "Practice with basic data types (plain old data), control structures"
+    ],
+    "id": 4
+  },
+  {
+    "name": "PI1-S1-WK1-L2",
+    "nameLink": "https://mccnetmccneb.sharepoint.com/:w:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%201/2019%2009%2011/PI1-S1-WK1-L2.docx?d=wd419cafeb44b4133a315251016fce9da&csf=1&web=1&e=Nje74H",
+    "date": "2019-09-11",
+    "dateLink": "https://mccnetmccneb.sharepoint.com/:f:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%201/2019%2009%2011?csf=1&web=1&e=Md5fgg",
+    "language": "HTML/CSS",
+    "competencies": [
+      "Using a text editor",
+      "Running an HTML/CSS page",
+      "Validating and debugging HTML and CSS",
+      "CSS: Float, Color, Font-size, and IDs"
+    ],
+    "id": 5
+  },
+  {
+    "name": "PI1-S1-WK2-A1",
+    "nameLink": "https://mccnetmccneb.sharepoint.com/:w:/r/sites/MCCCodeSchoolInstructors/Shared%20Documents/Curriculum/Program%20Increment%201/2019%2009%2016/PI1-S1-WK2-A1.docx?d=w0aeb03e52852402f85be5c1cf796fef6&csf=1&web=1&e=CldK8k",
+    "date": "2019-09-16",
+    "dateLink": "https://mccnetmccneb.sharepoint.com/:f:/r/sites/MCCCodeSchoolInstructors/Shared%20Documents/Curriculum/Program%20Increment%201/2019%2009%2016?csf=1&web=1&e=LZJLGS",
+    "language": "Java",
+    "competencies": [
+      "Design and develop Java programs for Java-based application solutions. ",
+      "Configure and use an IDE and the JDK to write, compile and run Java programs. ",
+      "Apply Java coding skills in working with primitive data types and Java objects. ",
+      "Use Java operators and features for modular programming and flow control. ",
+      "Validate data and design programs to handle invalid data. "
+    ],
+    "id": 6
+  },
+  {
+    "name": "PI1-S1-WK2-L1",
+    "nameLink": "https://mccnetmccneb.sharepoint.com/:w:/r/sites/MCCCodeSchoolInstructors/Shared%20Documents/Curriculum/Program%20Increment%201/2019%2009%2016/PI1-S1-WK2-L1.docx?d=w21804c23a2e140f19116f62350857269&csf=1&web=1&e=WeRZha",
+    "date": "2019-09-16",
+    "dateLink": "https://mccnetmccneb.sharepoint.com/:f:/r/sites/MCCCodeSchoolInstructors/Shared%20Documents/Curriculum/Program%20Increment%201/2019%2009%2016?csf=1&web=1&e=LZJLGS",
+    "language": "Java",
+    "competencies": [
+      "jUnit ",
+      "Static fields in classes  ",
+      "Inheritance ",
+      "Enumerations and static imports ",
+      "Practicing with git "
+    ],
+    "id": 7
+  },
+  {
+    "name": "PI1-S1-WK3-A1",
+    "nameLink": "https://mccnetmccneb.sharepoint.com/:w:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%201/2019%2009%2023/PI1-S1-WK3-A1.docx?d=w30c2a14a251447f998cdadfa7758ef69&csf=1&web=1&e=8dzg5F",
+    "date": "2019-09-23",
+    "dateLink": "https://mccnetmccneb.sharepoint.com/:f:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%201/2019%2009%2023?csf=1&web=1&e=crrhjh",
+    "language": "MySQL",
+    "competencies": [
+      "Basics of MySQL Workbench",
+      "Run SQL Statements"
+    ],
+    "id": 8
+  },
+  {
+    "name": "PI1-S1-WK3-L1",
+    "nameLink": "https://mccnetmccneb.sharepoint.com/:w:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%201/2019%2009%2023/PI1-S1-WK3-L1.docx?d=w9d58bef5f2e745cf987a615a79f654e7&csf=1&web=1&e=K5eigp",
+    "date": "2019-09-23",
+    "dateLink": "https://mccnetmccneb.sharepoint.com/:f:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%201/2019%2009%2023?csf=1&web=1&e=crrhjh",
+    "language": "MySQL",
+    "competencies": [
+      "Basics of MySQL Workbench",
+      "Run SQL Statements"
+    ],
+    "id": 9
+  },
+  {
+    "name": "PI2-S1-WK1-A1",
+    "nameLink": "https://mccnetmccneb.sharepoint.com/:w:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%202/2019%2011%2011/PI2-S1-WK1-A1.docx?d=wac4df22235384235ab6964777fc52d82&csf=1&web=1&e=Zf67zC",
+    "date": "2019-11-11",
+    "dateLink": "https://mccnetmccneb.sharepoint.com/:f:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%202/2019%2011%2011?csf=1&web=1&e=De26mi",
+    "language": "Java Servlets/JSP",
+    "competencies": [
+      "Select and use HTTP verbs appropriately for a web application.",
+      "Use Hypertext Transfer Protocol.",
+      "Work with objects through all phases of the request/response life cycle.",
+      "Configure routing and relate routing to the role of a deployment descriptor and annotations.",
+      "Define structure and components of a JEE project.",
+      "Identify web application components and their use of the MVC design pattern.",
+      "Distinguish the criteria and use case for static and dynamic web applications and services.",
+      "Override servlet methods relating to commonly used HTTP verbs.",
+      "Use JDBC to connect to a database and perform data CRUD operations."
+    ],
+    "id": 10
+  },
+  {
+    "name": "PI2-S1-WK1-A2",
+    "nameLink": "https://mccnetmccneb.sharepoint.com/:w:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%202/2019%2011%2013/PI2-S1-WK1-A2.docx?d=wf9761986f5884e1ba442a56835d53817&csf=1&web=1&e=FdPdfd",
+    "date": "2019-11-13",
+    "dateLink": "https://mccnetmccneb.sharepoint.com/:f:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%202/2019%2011%2013?csf=1&web=1&e=kqSW5l",
+    "language": "Javascript/jQuery",
+    "competencies": [
+      "Use JavaScript syntax to create valid JavaScript statements and expressions.",
+      "Create variables and use keywords for correct scoping.",
+      "Use JavaScript arithmetic and logical operators.",
+      "Use JavaScript control structures.",
+      "Use JavaScript arrays.",
+      "Use JavaScript functions.",
+      "Work with events."
+    ],
+    "id": 11
+  },
+  {
+    "name": "PI2-S1-WK1-L1",
+    "nameLink": "https://mccnetmccneb.sharepoint.com/:w:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%202/2019%2011%2011/PI2-S1-WK1-L1.docx?d=w4edf735b016d43379c7f465a86f83a23&csf=1&web=1&e=Wczwcf",
+    "date": "2019-11-11",
+    "dateLink": "https://mccnetmccneb.sharepoint.com/:f:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%202/2019%2011%2011?csf=1&web=1&e=De26mi",
+    "language": "Java Servlets/JSP",
+    "competencies": [
+      "Select and use HTTP verbs appropriately for a web application.",
+      "Use Hypertext Transfer Protocol.",
+      "Work with objects through all phases of the request/response life cycle.",
+      "Configure routing and relate routing to the role of a deployment descriptor and annotations.",
+      "Define structure and components of a JEE project.",
+      "Identify web application components and their use of the MVC design pattern.",
+      "Distinguish the criteria and use case for static and dynamic web applications and services.",
+      "Override servlet methods relating to commonly used HTTP verbs."
+    ],
+    "id": 12
+  },
+  {
+    "name": "PI2-S1-WK1-L2",
+    "nameLink": "https://mccnetmccneb.sharepoint.com/:w:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%202/2019%2011%2013/PI2-S1-WK1-L2.docx?d=wdc7358c3af0349759f5d253aea5470af&csf=1&web=1&e=ftguAo",
+    "date": "2019-11-13",
+    "dateLink": "https://mccnetmccneb.sharepoint.com/:f:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%202/2019%2011%2013?csf=1&web=1&e=kqSW5l",
+    "language": "Javascript/jQuery",
+    "competencies": [
+      "Working with Events.",
+      "Use of JavaScript Functions."
+    ],
+    "id": 13
+  },
+  {
+    "name": "PI3-S1-WK1-A2",
+    "nameLink": "https://mccnetmccneb.sharepoint.com/:w:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%203/2020%2001%2022/PI3-S1-WK1-A2.docx?d=w8a48d11cf6dd4f0c9ec7607743e5898f&csf=1&web=1&e=u3wM62",
+    "date": "2020-01-22",
+    "dateLink": "https://mccnetmccneb.sharepoint.com/:f:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%203/2020%2001%2022?csf=1&web=1&e=5FFkpH",
+    "language": "Angular",
+    "competencies": [
+      "Run a live full-stack application on your workstation",
+      "Create an angular component",
+      "Use the bootstrap grid system to create a list of bike brands"
+    ],
+    "id": 14
+  },
+  {
+    "name": "PI3-S1-WK1-L1",
+    "nameLink": "https://mccnetmccneb.sharepoint.com/:w:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%203/2020%2001%2018/PI3-S1-WK1-L1.docx?d=w682bffdf89764e518541cb0d8981c6aa&csf=1&web=1&e=alGRYD",
+    "date": "2010-01-18",
+    "dateLink": "https://mccnetmccneb.sharepoint.com/:f:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%203/2020%2001%2018?csf=1&web=1&e=Igj0y8",
+    "language": "Spring",
+    "competencies": [
+      "Setting up Spring development environment.",
+      "Remove configuration from code using Spring Dependency Injection."
+    ],
+    "id": 15
+  },
+  {
+    "name": "PI3-S1-WK1-L2",
+    "nameLink": "https://mccnetmccneb.sharepoint.com/:w:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%203/2020%2001%2022/PI3-S1-WK1-L2.docx?d=wcb9ac7941ff74a248f2a4637040eb3fc&csf=1&web=1&e=biAfNb",
+    "date": "2020-01-22",
+    "dateLink": "https://mccnetmccneb.sharepoint.com/:f:/r/sites/19SEPMCCCodeSchoolStudents/Shared%20Documents/Curriculum/Program%20Increment%203/2020%2001%2022?csf=1&web=1&e=5FFkpH",
+    "language": "Angular",
+    "competencies": [
+      "Run a live full-stack application on your workstation: database (MySQL), server (Springboot), and UI (Angular).",
+      "Use the bootstrap grid system to create a landing page: Brand recognition, responsive layout, and mobile friendly"
+    ],
+    "id": 16
+  }
+]
